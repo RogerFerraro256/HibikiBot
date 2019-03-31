@@ -1,0 +1,21 @@
+{
+  "name": "hibiki_bot",
+  "version": "0.0.1",
+  "description": "a simple discordbot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "hibiki",
+    "kancolle"
+  ],
+  "author": "Roger Ferraro",
+  "license": "MIT"
+}
