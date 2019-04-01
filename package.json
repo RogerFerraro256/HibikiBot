@@ -1,6 +1,6 @@
 {
   "name": "hibiki_bot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "a simple discordbot",
   "main": "index.js",
   "dependencies": {
@@ -17,5 +17,13 @@
     "kancolle"
   ],
   "author": "Roger Ferraro",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerFerraro256/HibikiBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RogerFerraro256/HibikiBot/issues"
+  },
+  "homepage": "https://github.com/RogerFerraro256/HibikiBot#readme"
 }
